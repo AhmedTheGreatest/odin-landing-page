@@ -69,10 +69,6 @@ body {
     font-weight: bold;
 }
 
-.info-section {
-
-}
-
 .info-heading {
     text-align: center;
     font-size: 36px;
@@ -185,5 +181,4 @@ body {
     justify-content: center;
     color: #E5E7EB;
     font-size: 18px;
-    flex-shrink: 0;
 }
